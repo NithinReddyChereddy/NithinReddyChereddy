@@ -63,10 +63,9 @@
   <br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NithinReddyChereddy&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-
-#### 🏆 Trophies & Contributions
+#### 🏆 Trophies & Top Project
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NithinReddyChereddy&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NithinReddyChereddy&margin-w=15" alt="GitHub Trophies" />
   <br><br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=NithinReddyChereddy&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NithinReddyChereddy&repo=datasynth-ai&theme=shadow_green&hide_border=false" alt="Top Project - DataSynth AI" />
 </div>
