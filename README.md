@@ -54,12 +54,10 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=NithinReddyChereddy&theme=shadow_green&hide_border=false&hide=contribs&text_color=ffffff&title_color=52d3a1&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=NithinReddyChereddy&theme=shadow_green&hide_border=false" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NithinReddyChereddy&theme=shadow_green&hide_border=false&layout=compact&text_color=ffffff&title_color=52d3a1" alt="Top Languages" />
 </div>
